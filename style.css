@@ -5,6 +5,8 @@ body{
   margin-left: auto;
   margin-right: auto;
   font-family: 'Roboto', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-size: 0.875em; /*16 * 0.875 = 14. THis is the new base font and any other em measurements will be based off of this.*/
+  line-height: 1.4285714286em; /*14 * 1.4285714286 = 20*/
 }
 
 p{
