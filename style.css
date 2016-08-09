@@ -1,6 +1,9 @@
-/*I can't help myself. I have to make this look halfway decent. Blame the designer in me!*/
+/*I can't help myself. I have to make this look halfway decent. Blame the designer in me!
+
+This css document addresses primairly the typography of the html. Gotta have good typography.*/
 
 @import 'https://fonts.googleapis.com/css?family=Roboto:400,400i,700,900';
+
 body{
   max-width: 500px;
   margin-left: auto;
