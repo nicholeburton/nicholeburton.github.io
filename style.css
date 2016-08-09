@@ -1,6 +1,6 @@
 /*I can't help myself. I have to make this look halfway decent. Blame the designer in me!*/
 
-@import 'https://fonts.googleapis.com/css?family=Roboto';
+@import 'https://fonts.googleapis.com/css?family=Roboto:400,400i,700,900';
 body{
   max-width: 500px;
   margin-left: auto;
@@ -20,13 +20,13 @@ h1{
   line-height:1.0666666667em; /* 45 * 1.0666666667 = 48*/
   margin: 20px 0 10px 0;
   padding: 0;
+  font-weight: normal;
 }
 
 h2{
   font-size: 1em;
   margin: 20px 0 10px 0;
   line-height: 1.4285714286em;
-  font-weight: 900;
 }
 
 img{
